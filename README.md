@@ -1,7 +1,7 @@
-### TLA+ Reading and Resource List
+## TLA+ Reading and Resource List
 Last updated 13 January 2018. Beginner-friendly (hopefully!) resources for learning TLA+/personal reading list. This leans heavily on [Leslie Lamport's TLA homepage](http://lamport.azurewebsites.net/tla/tla.html).
 
-## Learning it:
+### Learning it:
 * [Hyperbook](http://lamport.azurewebsites.net/tla/hyperbook.html): Downloads as a .zip; last updated August 2015 
 	> "This is the start of a hypertext "book" containing two tutorials: Principles of Concurrent Computing and Specification of Concurrent Systems.  The tutorials are two tracks that share much text--especially at the beginning.  Both tutorials are based on TLA+.  The Principles track, which I hope will eventually be suitable for an undergraduate course on concurrent computing, will mainly use the PlusCal algorithm language rather than TLA+ for describing algorithms.  There is also a TLA+ Proof track that explains how to use the TLAPS proof system."
 * [TLA video course](http://lamport.azurewebsites.net/video/videos.html): Video course that assumes basic programming knowledge and some math. Downloads and complete transcripts are available; last updated December 2017.
@@ -11,17 +11,17 @@ Last updated 13 January 2018. Beginner-friendly (hopefully!) resources for learn
 * [Dr. TLA+](https://github.com/tlaplus/DrTLAPlus): Lectures on algorithms and TLA+ implementation
 * [TLA+ in Practice and Theory](https://pron.github.io/tlaplus): Four-part video lecture series on math and design principles/concepts used in TLA+
 
-## Papers/Examples
+### Papers/Examples
 * [AWS and TLA+](http://lamport.azurewebsites.net/tla/amazon.html)
 * [Leslie Lamport papers](http://lamport.azurewebsites.net/tla/papers.html)
 	* [Euclid Writes a Fairytale](http://lamport.azurewebsites.net/pubs/pubs.html#euclid)
 * [Examples on GitHub](https://github.com/tlaplus/Examples)
 
-## Community Resources
+### Community Resources
 * [Google usergroup](https://groups.google.com/forum/#!forum/tlaplus)
 * [TLAPlus on Twitter](https://twitter.com/tlaplus)
 
-## Misc
+### Misc
 * [Leslie Lamport at Heidelberg](https://www.youtube.com/watch?v=FKFH_-QogN0)
 	> "An algorithm is not a program, so why describe it with a programming language? PlusCal is a tiny toy-like language that is infinitely more expressive than any programming language because an expression can be any mathematical formula."
 * [Leslie Lamport at Microsoft: "Thinking Above the Code"](https://www.youtube.com/watch?v=-4Yp3j_jk8Q)
