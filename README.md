@@ -1,5 +1,5 @@
 ### TLA+ Reading and Resource List
-Last updated 13 January 2018. Beginner-friendly (hopefully!) resources for learning TLA+/personal reading list. This leans heavily on [Leslie Lamport's TLA homepage](http://lamport.azurewebsites.net/tla/tla.html) and 
+Last updated 13 January 2018. Beginner-friendly (hopefully!) resources for learning TLA+/personal reading list. This leans heavily on [Leslie Lamport's TLA homepage](http://lamport.azurewebsites.net/tla/tla.html).
 
 ## Learning it:
 * [Hyperbook](http://lamport.azurewebsites.net/tla/hyperbook.html): Downloads as a .zip; last updated August 2015 
